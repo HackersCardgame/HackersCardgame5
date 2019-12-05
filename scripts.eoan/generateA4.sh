@@ -22,7 +22,7 @@ counter=0
 
 
 mkdir -p ../assembled/$1/A4/
-cp ../cards/template/templateA4.svg ../assembled/$1/A4/
+cp ./templateA4.svg ../assembled/$1/A4/
 
 
 
