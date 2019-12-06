@@ -43,14 +43,14 @@ People that work for the NDB are explicitely excluded and not allowed to read, s
 <br><br>
 <font color=red>if i'm right it would be likely that the NDB/CIA/NSA hacked Hostpoint and is trying to find other victims like me to blackmail and silence them too.</font> <font color=purple><b>and they activate some sort of neural radio jamming device if you try to read the cards, to stop you from finding out how this things work, i tried to create this cards in the mountains or in the forest but my laptop is jamming me too, maybe if you have no electronical equipment in your backpack and only this cards they can not jam your neural radio, but not 100% sure abut that</b></font>
 <br><br>
-I tried that i only take free images or cc0 licensed images, if you think there is something wrong that should be licesed please contact me on github or directly add an issue in the HackersCardgame3 Repository.
+I tried that i only take free images or cc0 licensed images, if you think there is something wrong that should be licesed please contact me on github or directly add an issue in the HackersCardgame5 Repository.
 <br><br>
 
 Source:<br>
-<a href="https://github.com/braindef/HackersCardgame3">https://github.com/braindef/HackersCardgame3</a><br>
+<a href="https://github.com/braindef/HackersCardgame5">https://github.com/braindef/HackersCardgame5</a><br>
 <a href="https://2hmorvqnlhwyrhvl6dwv4jqgnvhlaf2wxnrbmbhrbpmx5x3qqiwprjyd.onion/">https://2hmorvqnlhwyrhvl6dwv4jqgnvhlaf2wxnrbmbhrbpmx5x3qqiwprjyd.onion/</a>
 <br><br>
-<a href="https://github.com/braindef/HackersCardgame3/tree/master/pdf/EN/A4">PRINTING TEMPLATES (PDF)</a>
+<a href="https://github.com/braindef/HackersCardgame5/tree/master/pdf/EN/A4">PRINTING TEMPLATES (PDF)</a>
 <br>
 <a href="../../pdf/EN/A4/">PRINTING TEMPLATES local(PDF)</a>
 <br><br>
