@@ -1,3 +1,1 @@
-../png/EN/t6.png
-../png/EN/t61.png
-../png/EN/t63.png
+../png/EN/e5.png
