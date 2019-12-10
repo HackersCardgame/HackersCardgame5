@@ -138,7 +138,7 @@
     </rdf:RDF>
   </metadata>
   <g
-     style="display:inline"
+     style="display:none"
      transform="translate(0,-192)"
      id="g2897"
      inkscape:groupmode="layer"
@@ -193,7 +193,7 @@
      inkscape:groupmode="layer"
      id="g3079"
      transform="translate(0,-192)"
-     style="display:none">
+     style="display:inline">
     <rect
        style="opacity:0.93999999;fill:#afdde9;fill-opacity:1;stroke:none;stroke-width:2.701967;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect3077"
@@ -7724,7 +7724,7 @@ Pwl+XS1jsM66so5ObnOP3XVcd40/T9n0/4XxfwJdD6YRy0adgAAAAABJRU5ErkJggg==
        inkscape:groupmode="layer"
        id="g2959"
        inkscape:label="barPink"
-       style="display:inline">
+       style="display:none">
       <rect
          style="fill:#ff5555;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect2957"
@@ -7739,7 +7739,7 @@ Pwl+XS1jsM66so5ObnOP3XVcd40/T9n0/4XxfwJdD6YRy0adgAAAAABJRU5ErkJggg==
          inkscape:export-ydpi="363.92001" />
     </g>
     <g
-       style="display:none"
+       style="display:inline"
        inkscape:label="aquamarin"
        id="g3071"
        inkscape:groupmode="layer">
