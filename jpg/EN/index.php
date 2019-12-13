@@ -43,7 +43,7 @@ People that work for the NDB are explicitely excluded and not allowed to read, s
 <br><br>
 <font color=red>if i'm right it would be likely that the NDB/CIA/NSA hacked Hostpoint and is trying to find other victims like me to blackmail and silence them too.</font> <font color=purple><b>and they activate some sort of neural radio jamming device if you try to read the cards, to stop you from finding out how this things work, i tried to create this cards in the mountains or in the forest but my laptop is jamming me too, maybe if you have no electronical equipment in your backpack and only this cards they can not jam your neural radio, but not 100% sure abut that</b></font>
 <br><br>
-<font color=green site=4em><b>If one of the two that normally both promise to be true to each other forever breaks the promise, they can easily break your mind but also the mind of the girl or boy you betray, choose wisely and only once but forever</b></font>
+<font color=green size=4em><b>If one of the two kids that normally both promise to be true to each other forever breaks the promise, they can easily break your mind but also the mind of the girl or boy you betrayed, choose wisely and only once but forever</b></font>
 <br><br>
 I tried that i only take free images or cc0 licensed images, if you think there is something wrong that should be licesed please contact me on github or directly add an issue in the HackersCardgame5 Repository.
 <br><br>
