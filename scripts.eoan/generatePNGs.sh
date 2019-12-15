@@ -23,6 +23,8 @@ pngpath=$(dirname $(pwd))/png
 mkdir -p $pngpath/$1/
 find ../cards/$1 -name "*.svg" >./PNGs.txt
 
+cp m41b.png $pngpath/$1/
+
 counter=0
 
 for i in $(cat ./PNGs.txt)
