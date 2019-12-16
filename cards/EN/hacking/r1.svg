@@ -114,9 +114,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.1519444"
-     inkscape:cx="139.84252"
-     inkscape:cy="198.4252"
+     inkscape:zoom="3.7490906"
+     inkscape:cx="143.89532"
+     inkscape:cy="148.79977"
      inkscape:document-units="mm"
      inkscape:current-layer="g18358"
      showgrid="false"
@@ -173,15 +173,25 @@
        inkscape:export-ydpi="363.92001" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666727px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.06;stroke-miterlimit:4;stroke-dasharray:none"
-       x="8.3016768"
-       y="278.77246"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.43764889px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.04075224;stroke-miterlimit:4;stroke-dasharray:none;"
+       x="7.9480176"
+       y="276.65918"
        id="text560"><tspan
          sodipodi:role="line"
          id="tspan558"
-         x="8.3016768"
-         y="278.77246"
-         style="fill:#ffffff;stroke:#000000;stroke-width:0.06;stroke-miterlimit:4;stroke-dasharray:none">https://0x8.ch/HackersCardgame5</tspan></text>
+         x="7.9480176"
+         y="276.65918"
+         style="fill:#ff0000;stroke:#000000;stroke-width:0.04075224;stroke-miterlimit:4;stroke-dasharray:none;">https://0x8.ch/HackersCardgame5</tspan><tspan
+         sodipodi:role="line"
+         x="7.9480176"
+         y="278.45624"
+         style="fill:#ff0000;stroke:#000000;stroke-width:0.04075224;stroke-miterlimit:4;stroke-dasharray:none;"
+         id="tspan496">http://HackersCardgame.ch</tspan><tspan
+         sodipodi:role="line"
+         x="7.9480176"
+         y="280.2533"
+         style="fill:#ff0000;stroke:#000000;stroke-width:0.04075224;stroke-miterlimit:4;stroke-dasharray:none;"
+         id="tspan494">https://2hmorvqnlhwyrhvl6dwv4jqgnvhlaf2wxnrbmbhrbpmx5x3qqiwprjyd.onion/</tspan></text>
   </g>
   <g
      style="display:none"
