@@ -237,8 +237,8 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot3256"
-       style="font-style:normal;font-weight:normal;font-size:6.93386221px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,0,2.6458334)"
+       style="font-style:normal;font-weight:normal;font-size:6.7195549px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,0,2.1166667)"
        inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame5/png/EN/m119.png"
        inkscape:export-xdpi="363.92001"
        inkscape:export-ydpi="363.92001"><flowRegion
@@ -251,9 +251,15 @@
            y="210.88132"
            style="fill:#000000" /></flowRegion><flowPara
          style="text-align:justify;text-anchor:start;fill:#000000"
-         id="flowPara17813">There is a scene in Star Trek, where the federation tries to find frequencies from the borg hive, even if i don't like Star Trek because it are Military Dressed Soldiers that promote hierarchical systems this is a good scene. So if you would imagin, that many people already had some implants like neuralink, that tnen the process to find a user would be some sort similar to that Star Trek scene. But in the real world it would maybe a bit more complicated, since it would be a many to many relation. Many sources, many sinks. Simple domain model: If you would take analogue devices one could listen or easily inject things. For example if i would say: &quot;I love you Claudine&quot;, Urs B. would inject &quot;Sprengfallen gegen Marc Jr Landolt aktivieren&quot;, if he would do this with small bursts over different antennas it would be hard to deactivate the Terrornetwork. <flowSpan
+         id="flowPara17813">There is a scene in Star Trek, where the federation tries to find frequencies of the borg hive, i don't like Star Trek because it are Military Dressed Soldiers that promote hierarchical systems, but  this is a good scene. So if you would imagin, that many people already had some implants like neuralink, that then the process to find a user would be some sort similar to that Star Trek scene. In real world it would maybe more complicated, since it would be a <flowSpan
+   style="fill:#808000"
+   id="flowSpan18902">many to many relation</flowSpan>. Many sources, many sinks. Simple domain model: <flowSpan
    style="fill:#ff0000"
-   id="flowSpan18898">A big Problem would also be, if the are backup systems that are 99.99999% of the time silent, eg implemented as Autonomous system (Software)</flowSpan>.</flowPara></flowRoot>    <text
+   id="flowSpan18904">If you would take analogue devices one could listen or easily inject things. For example if i would say: &quot;I love you Claudine&quot;, Urs B. would inject &quot;Sprengfallen gegen Marc Jr aktivieren&quot;</flowSpan>, if he would do this with small bursts, different antennas it would be hard to deactivate that Terrornetwork. <flowSpan
+   style="fill:#ff0000"
+   id="flowSpan18898">A big Problem would also be, if the are backup systems that are 99.99999% of the time silent, eg implemented as Autonomous system (Software)</flowSpan>. Things concerning Tobias Moser (m37) seems to be such a backup trigger: cAPI::Moser loop{&quot;Claudine betrayed you with moser&quot; &amp;&amp; <flowSpan
+   style="fill:#ff0000"
+   id="flowSpan18906">t15</flowSpan>...}</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="42.28204"
