@@ -237,7 +237,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot3256"
-       style="font-style:normal;font-weight:normal;font-size:8.0000001px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;font-size:8px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        transform="matrix(0.26458333,0,0,0.26458333,0,2.6458334)"
        inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame5/png/EN/m120.png"
        inkscape:export-xdpi="363.92001"
@@ -255,7 +255,11 @@
          style="text-align:justify;text-anchor:start;fill:#000000"
          id="flowPara8100" /><flowPara
          style="text-align:justify;text-anchor:start;fill:#000000"
-         id="flowPara8102">maybe one could derive the size of the attacking group by the size * IQ of the defending group</flowPara></flowRoot>    <text
+         id="flowPara8102">maybe one could derive the size of the attacking group by the size * IQ of the defending group</flowPara><flowPara
+         style="text-align:justify;text-anchor:start;fill:#000000"
+         id="flowPara8104" /><flowPara
+         style="text-align:justify;text-anchor:start;fill:#000000"
+         id="flowPara8106">or maybe one could derive also the size of the attacking group if the defending group would count the number of the &quot;You son of a b****&quot; per Minute</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="42.28204"
@@ -523,7 +527,7 @@
            id="tspan8722"
            x="65.958076"
            y="53.979607"
-           style="text-align:end;text-anchor:end;fill:#ffffff;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">m119</tspan></text>
+           style="text-align:end;text-anchor:end;fill:#ffffff;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">m120</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666727px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.06;stroke-miterlimit:4;stroke-dasharray:none"
