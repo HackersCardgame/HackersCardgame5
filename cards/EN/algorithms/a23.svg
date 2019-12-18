@@ -249,7 +249,7 @@
    style="fill:#008000"
    id="flowSpan10227">Medulla Oblangata or Medulla Spinalis implant (Spinal Cord implant)</flowSpan> would exist, they would need some sort of Matrice Operations (Jacobi Matrices?) to calculate the Body Movement. In my particular case i guess there is a <flowSpan
    style="fill:#ff0000"
-   id="flowSpan10231">malware</flowSpan>, that is activated when they use m99 to target me. They seem to change the sign of one axis after about 15 minutes to make me hurt &quot;myself&quot;. So maybe it's just one of those additional Networks that is 99.9% of the time silent, that overpowers the signal i should receive with a value that has an additional minus sign for that specific axsis. But not yet sure about that.</flowPara></flowRoot>    <text
+   id="flowSpan10231">malware</flowSpan>, that is activated when they use m99 to target me. They seem to change the sign of one axis or making me steering me into singularities after about 15 minutes after i started to do body care to make me hurt &quot;myself&quot;. So maybe it's just one of those additional Networks that is 99.9% of the time silent, that overpowers the signal i should receive with a value that has an additional minus sign for that specific axsis. But not yet sure about that.</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="42.28204"
@@ -922,7 +922,7 @@
            x="42.003956"
            y="15.97524"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.3224555"
-           id="tspan10209">inematics</tspan></text>
+           id="tspan10209">cinematics</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
