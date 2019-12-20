@@ -118,7 +118,7 @@
      inkscape:cx="191.49446"
      inkscape:cy="192.21711"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer26"
+     inkscape:current-layer="g8687"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
@@ -1527,7 +1527,7 @@ c8K1WbFvuatcy7Q2rMhpm//Xuc07vw+1VuVG8EXHvgHh3DvkevrL3wAAAABJRU5ErkJggg==
        inkscape:groupmode="layer">
       <text
          id="text8685"
-         y="12.169587"
+         y="9.523756"
          x="42.529015"
          style="font-style:normal;font-weight:normal;font-size:3.52777815px;line-height:1;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"
@@ -1535,15 +1535,36 @@ c8K1WbFvuatcy7Q2rMhpm//Xuc07vw+1VuVG8EXHvgHh3DvkevrL3wAAAABJRU5ErkJggg==
          inkscape:export-xdpi="363.92001"
          inkscape:export-ydpi="363.92001"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:GNUTypewriter;-inkscape-font-specification:GNUTypewriter;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332"
-           y="12.169587"
+           y="9.523756"
            x="42.529015"
            sodipodi:role="line"
            id="tspan4466">Infrared Ray Weapons</tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:GNUTypewriter;-inkscape-font-specification:GNUTypewriter;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332"
-           y="15.839303"
+           y="13.193472"
            x="42.529015"
            sodipodi:role="line"
            id="tspan5444">maybe in every Display</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:4.52204323px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.48450458"
+         x="51.712109"
+         y="26.599319"
+         id="text5499"><tspan
+           sodipodi:role="line"
+           id="tspan5497"
+           x="51.712109"
+           y="26.599319"
+           style="font-size:3.87603664px;text-align:center;text-anchor:middle;fill:#ff0000;stroke-width:0.48450458">not yet proven</tspan><tspan
+           sodipodi:role="line"
+           x="51.712109"
+           y="32.251873"
+           style="font-size:3.87603664px;text-align:center;text-anchor:middle;fill:#ff0000;stroke-width:0.48450458"
+           id="tspan5501">since point 3</tspan><tspan
+           sodipodi:role="line"
+           x="51.712109"
+           y="37.904427"
+           style="font-size:3.87603664px;text-align:center;text-anchor:middle;fill:#ff0000;stroke-width:0.48450458"
+           id="tspan5503">unclear</tspan></text>
     </g>
     <g
        style="display:none"
