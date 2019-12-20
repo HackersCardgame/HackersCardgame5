@@ -115,7 +115,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.078869"
-     inkscape:cx="139.84252"
+     inkscape:cx="49.889762"
      inkscape:cy="198.4252"
      inkscape:document-units="mm"
      inkscape:current-layer="layer24"
@@ -630,29 +630,30 @@
            id="tspan5531">100W + kondensator würde reichent</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:3.46132922px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08653323"
-         x="74.255852"
-         y="40.07571"
-         id="text5535"><tspan
+         style="font-style:normal;font-weight:normal;font-size:3.46132922px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.08653323"
+         x="-27.597851"
+         y="80.333923"
+         id="text5535"
+         transform="rotate(-30)"><tspan
            sodipodi:role="line"
            id="tspan5533"
-           x="74.255852"
-           y="40.07571"
-           style="stroke-width:0.08653323">Karte wird bei der</tspan><tspan
+           x="-27.597851"
+           y="80.333923"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ff0000;stroke-width:0.08653323">Karte wird bei der</tspan><tspan
            sodipodi:role="line"
-           x="74.255852"
-           y="44.40237"
-           style="stroke-width:0.08653323"
+           x="-27.597851"
+           y="84.660583"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ff0000;stroke-width:0.08653323"
            id="tspan5537">nächsten UV-/Säurever</tspan><tspan
            sodipodi:role="line"
-           x="74.255852"
-           y="48.729034"
-           style="stroke-width:0.08653323"
+           x="-27.597851"
+           y="88.987244"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ff0000;stroke-width:0.08653323"
            id="tspan5541">brennung</tspan><tspan
            sodipodi:role="line"
-           x="74.255852"
-           y="53.055695"
-           style="stroke-width:0.08653323"
+           x="-27.597851"
+           y="93.313911"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ff0000;stroke-width:0.08653323"
            id="tspan5539">weiter analysiert</tspan></text>
     </g>
     <g
