@@ -114,9 +114,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="6.7565785"
-     inkscape:cx="256.0144"
-     inkscape:cy="204.93147"
+     inkscape:zoom="2.3888113"
+     inkscape:cx="426.3627"
+     inkscape:cy="271.11967"
      inkscape:document-units="mm"
      inkscape:current-layer="layer24"
      showgrid="false"
@@ -1325,7 +1325,33 @@ c8K1WbFvuatcy7Q2rMhpm//Xuc07vw+1VuVG8EXHvgHh3DvkevrL3wAAAABJRU5ErkJggg==
            x="42.005936"
            y="47.730377"
            style="font-size:1.35834372px;stroke-width:0.10187577"
-           id="tspan5531">100W + kondensator würde reichen</tspan></text>
+           id="tspan5531">100W + kondensator würde reichent</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="33.227825"
+         y="28.686764"
+         id="text5535"><tspan
+           sodipodi:role="line"
+           id="tspan5533"
+           x="33.227825"
+           y="28.686764"
+           style="stroke-width:0.26458332">Karte wird bei der</tspan><tspan
+           sodipodi:role="line"
+           x="33.227825"
+           y="41.915932"
+           style="stroke-width:0.26458332"
+           id="tspan5537">nächsten UV-/Säurever</tspan><tspan
+           sodipodi:role="line"
+           x="33.227825"
+           y="55.145096"
+           style="stroke-width:0.26458332"
+           id="tspan5541">brennung</tspan><tspan
+           sodipodi:role="line"
+           x="33.227825"
+           y="68.37426"
+           style="stroke-width:0.26458332"
+           id="tspan5539">weiter geschrieben</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
