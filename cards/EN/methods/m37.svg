@@ -105,11 +105,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.1519444"
-     inkscape:cx="139.84252"
-     inkscape:cy="198.4252"
+     inkscape:zoom="16.630952"
+     inkscape:cx="62.734852"
+     inkscape:cy="202.83255"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer25"
+     inkscape:current-layer="layer24"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
@@ -498,6 +498,17 @@
          inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m37.png"
          inkscape:export-xdpi="363.92001"
          inkscape:export-ydpi="363.92001" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="9.8437538"
+         y="51.900291"
+         id="text1532"><tspan
+           sodipodi:role="line"
+           id="tspan1530"
+           x="9.8437538"
+           y="51.900291"
+           style="font-size:1.76388884px;stroke-width:0.26458332">https://www.youtube.com/watch?v=6iB0N-ohuV8</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
