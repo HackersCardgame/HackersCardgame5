@@ -170,11 +170,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.4981813"
-     inkscape:cx="115.56997"
+     inkscape:zoom="2.078869"
+     inkscape:cx="139.36149"
      inkscape:cy="198.4252"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer25"
+     inkscape:current-layer="g17177"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
@@ -194,7 +194,7 @@
     </rdf:RDF>
   </metadata>
   <g
-     style="display:none"
+     style="display:inline"
      transform="translate(0,-192)"
      id="g2897"
      inkscape:groupmode="layer"
@@ -207,7 +207,10 @@
        height="93.298027"
        width="63.298035"
        id="rect2895"
-       style="opacity:0.93999999;fill:#e9afdd;fill-opacity:0.94117647;stroke:none;stroke-width:2.701967;stroke-miterlimit:4;stroke-dasharray:none" />
+       style="opacity:0.93999999;fill:#e9afdd;fill-opacity:0.94117647;stroke:none;stroke-width:2.701967;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m88.png"
+       inkscape:export-xdpi="363.92001"
+       inkscape:export-ydpi="363.92001" />
   </g>
   <g
      inkscape:label="bodyNeutral"
@@ -249,7 +252,7 @@
      inkscape:groupmode="layer"
      id="g3079"
      transform="translate(0,-192)"
-     style="display:inline">
+     style="display:none">
     <rect
        style="opacity:0.93999999;fill:#afdde9;fill-opacity:1;stroke:none;stroke-width:2.701967;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect3077"
@@ -806,7 +809,10 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666727px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.06;stroke-miterlimit:4;stroke-dasharray:none"
          x="9.8077641"
          y="54.259716"
-         id="text560"><tspan
+         id="text560"
+         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m88.png"
+         inkscape:export-xdpi="363.92001"
+         inkscape:export-ydpi="363.92001"><tspan
            sodipodi:role="line"
            id="tspan558"
            x="9.8077641"
@@ -887,7 +893,7 @@
          ry="4.5458832" />
     </g>
     <g
-       style="display:none"
+       style="display:inline"
        inkscape:label="barPink copy"
        id="g2763"
        inkscape:groupmode="layer">
@@ -899,10 +905,13 @@
          height="12.847491"
          width="62.100834"
          id="rect2761"
-         style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
+         style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m88.png"
+         inkscape:export-xdpi="363.92001"
+         inkscape:export-ydpi="363.92001" />
     </g>
     <g
-       style="display:inline"
+       style="display:none"
        inkscape:label="aquamarin"
        id="g3071"
        inkscape:groupmode="layer">
@@ -1048,12 +1057,14 @@
            x="42.003956"
            y="11.389129"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.3224555"
-           id="tspan1182">big systemchanges</tspan><tspan
+           id="tspan1182"><tspan
+   style="fill:#008000"
+   id="tspan4675">avoid</tspan> big system-</tspan><tspan
            sodipodi:role="line"
            x="42.003956"
            y="15.269684"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.3224555"
-           id="tspan1454">in little time</tspan></text>
+           id="tspan1454">changes in little time</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -2345,7 +2356,10 @@
         <g
            style="display:inline;enable-background:new"
            id="g4894"
-           transform="matrix(0.36769388,0,0,0.36769388,-4.6093063,-5.0113273)">
+           transform="matrix(0.36769388,0,0,0.36769388,-4.6093063,-5.0113273)"
+           inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m88.png"
+           inkscape:export-xdpi="363.92001"
+           inkscape:export-ydpi="363.92001">
           <g
              transform="translate(113.92208,-21.892614)"
              id="g7867"
