@@ -109,7 +109,7 @@
      inkscape:cx="139.84252"
      inkscape:cy="198.4252"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer26"
+     inkscape:current-layer="layer24"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
@@ -372,6 +372,36 @@
            x="47.581959"
            y="34.057373"
            style="stroke-width:0.26458332;fill:#ba8f7f;fill-opacity:1;">NeuroNexus</tspan></text>
+      <g
+         style="display:inline"
+         id="g36170"
+         transform="translate(-5.0028257,24.777237)"
+         inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame5/png/EN/t6.png"
+         inkscape:export-xdpi="363.92001"
+         inkscape:export-ydpi="363.92001">
+        <rect
+           ry="0"
+           rx="0"
+           y="22.637615"
+           x="10.475917"
+           height="6.0206418"
+           width="33.354359"
+           id="rect36143"
+           style="fill:#ff0000;fill-opacity:1;stroke:#008000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none" />
+        <text
+           id="text36139"
+           y="27.220438"
+           x="12.964223"
+           style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="fill:#000000;stroke-width:0.26458332"
+             y="27.220438"
+             x="12.964223"
+             id="tspan36137"
+             sodipodi:role="line">RISK SCORE: <tspan
+   id="tspan36141"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000;stroke-width:0.26458332">10</tspan></tspan></text>
+      </g>
     </g>
     <g
        inkscape:groupmode="layer"
