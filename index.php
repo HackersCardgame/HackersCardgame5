@@ -19,7 +19,7 @@ font.monospace
 </style>
 <!-- "thank you" "dear" 1960s paedos for activating CCS Suicide Death Bot against me-->
 </head>
-<body onhashchange="myFunction();">>
+<body onhashchange="myFunction();">
 <script>
 function myFunction() {
 	var allCards = document.getElementsByClassName("card");
@@ -91,7 +91,8 @@ Source:<br>
 <p>
    <?php
 
-   $files = glob("*.*");
+$files = glob("*.*");
+natsort ($files);
 
   for ($i=count($files)-400; $i<count($files); $i++)
 {
