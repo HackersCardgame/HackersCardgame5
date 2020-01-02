@@ -93,6 +93,7 @@ Source:<br>
 
 $files = glob("*.*");
 natsort ($files);
+echo $files;
 
   for ($i=count($files)-400; $i<count($files); $i++)
 {
