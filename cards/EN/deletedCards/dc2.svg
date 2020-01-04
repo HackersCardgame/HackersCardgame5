@@ -106,6 +106,40 @@
          result="color2"
          id="feColorMatrix75130" />
     </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Cross Blur"
+       id="filter17255">
+      <feColorMatrix
+         in="SourceGraphic"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 -0.2125 -0.7154 -0.0721 1 0 "
+         result="colormatrix"
+         id="feColorMatrix17245" />
+      <feComposite
+         in="SourceGraphic"
+         in2="colormatrix"
+         operator="arithmetic"
+         k2="1"
+         k3="0"
+         k4="0"
+         result="composite"
+         id="feComposite17247" />
+      <feGaussianBlur
+         stdDeviation="0.44 0.01"
+         result="blur1"
+         id="feGaussianBlur17249" />
+      <feGaussianBlur
+         in="composite"
+         stdDeviation="0.01 0.38"
+         result="blur2"
+         id="feGaussianBlur17251" />
+      <feBlend
+         in="blur2"
+         in2="blur1"
+         mode="multiply"
+         result="blend"
+         id="feBlend17253" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -114,11 +148,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.8046231"
-     inkscape:cx="101.38153"
-     inkscape:cy="209.95185"
+     inkscape:zoom="2.4023116"
+     inkscape:cx="160.31332"
+     inkscape:cy="164.7685"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer25"
+     inkscape:current-layer="layer26"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
@@ -243,7 +277,17 @@
            x="32.526913"
            y="210.88132" /></flowRegion><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara18167">image should tell everything</flowPara></flowRoot>    <text
+         id="flowPara16954">update: some of the hostages are institutional honeypots, for example if i found out about the fact that mental institutions are used by the cia (MindColtrol=Psychology=Psychiatry...) then we of course would try to free ioerror's mother, but possibly the cia created this situation just in case that someone like me that was already in mental institutions would find out about this dirty &quot;game&quot;.</flowPara><flowPara
+         style="text-align:justify;text-anchor:start"
+         id="flowPara16958">So &quot;possibly&quot; there is already a big team that waits on people that try to free jacobs mother, so best way would be to help and suport that people (eg. g2/ma8 people) that were already in the same mental institution help them and ask them for help and information(s)</flowPara><flowPara
+         style="text-align:justify;text-anchor:start"
+         id="flowPara17261">It would be likely that not just in the case of iorror the mental institutions go after the whole family</flowPara><flowPara
+         style="text-align:justify;text-anchor:start"
+         id="flowPara17265">consider cards: a14, a15, m124</flowPara><flowPara
+         style="text-align:justify;text-anchor:start"
+         id="flowPara17269"><flowSpan
+   style="-inkscape-font-specification:'sans-serif Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;fill:#ff0000"
+   id="flowSpan17277">DANGER: </flowSpan>if this hypothesis is correct be aware of a16 cards</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="42.28204"
@@ -599,6 +643,31 @@
          inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/dc2.png"
          inkscape:export-xdpi="363.92001"
          inkscape:export-ydpi="363.92001" />
+      <g
+         id="g16969"
+         style="filter:url(#filter17255)"
+         transform="matrix(0.71461137,0,0,0.71461137,-16.723674,24.099052)">
+        <text
+           id="text16962"
+           y="35.349274"
+           x="73.34433"
+           style="font-style:normal;font-weight:normal;font-size:5.92359304px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.14808983"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ff0000;stroke-width:0.14808983"
+             y="35.349274"
+             x="73.34433"
+             id="tspan16960"
+             sodipodi:role="line">HONEYPOT</tspan></text>
+        <rect
+           ry="0"
+           rx="0"
+           y="28.291674"
+           x="71.796234"
+           height="9.6479816"
+           width="40.997105"
+           id="rect16964"
+           style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.89789158;stroke-miterlimit:4;stroke-dasharray:none" />
+      </g>
     </g>
     <g
        inkscape:groupmode="layer"
